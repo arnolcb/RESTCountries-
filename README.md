@@ -1,5 +1,5 @@
 # RESTCountries-API
-Solution to the statement of the qualified practice 1 of the Web Applications Course
+Solution to the statement of the qualified practice 1 (PC1) of the Web Applications Course
 
 ## Project Setup
 
